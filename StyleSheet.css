@@ -1,0 +1,42 @@
+﻿
+
+.featured_nav li:hover .title_caption {
+    height: 100px;
+    padding-top: 5%;
+    background-color: rgba(0,0,0,0.75);
+}
+
+.featured nav li {
+    width: 200px;
+}
+
+.featured_nav li img {
+    padding-right: 5px;
+}
+
+.catg1_nav li .post_titile {
+    margin-top: 15px;
+}
+
+.catgimg_container {
+    height: 150px;
+    padding-top:10px;
+
+}
+
+.content_middle_leftbar {
+    float: left;
+    display: inline;
+    width: 100%;
+    padding-top:0px;
+   }
+
+.catg1_img img {
+    height:100%;
+    width: 100%;
+    -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+ 
+}
+
